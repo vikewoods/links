@@ -7,3 +7,6 @@ http://psdspot.com/
 http://www.webinterfacelab.com/
 
 http://www.icondeposit.com/
+
+# Passenger App Mac OS X
+http://www.fngtps.com/passenger-preference-pane
